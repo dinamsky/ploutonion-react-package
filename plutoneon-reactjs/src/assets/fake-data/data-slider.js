@@ -12,7 +12,7 @@ const heroSliderData = [
         description: "Маркетплэйс для коллекций NFT",
         img: img1,
         imgbg: imgbg1,
-        class:'right'
+        class:'left'
     },
     {
         title_1: "Узнавайте, Ищите,",
